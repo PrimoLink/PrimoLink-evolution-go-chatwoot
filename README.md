@@ -5,7 +5,7 @@
 
 O **PrimoLink Gateway** é um middleware de alta performance e baixa latência, desenhado para orquestrar a comunicação bidirecional em tempo real entre APIs de WhatsApp (**Evolution GO** e **WuzAPI**) e o CRM Omnichannel **Chatwoot**.
 
-Diferente de soluções legadas, o PrimoLink v2.1.0 foi reconstruído para ser **stateless** e **escalável**, utilizando uma stack moderna com PostgreSQL para persistência e Redis para cache de mapeamento ultrarrápido.
+Diferente de soluções legadas, o PrimoLink foi reconstruído para ser **stateless** e **escalável**, utilizando uma stack moderna com PostgreSQL para persistência e Redis para cache de mapeamento ultrarrápido.
 
 ---
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/slot-primolink-gateway.png"><img src="/slot-primolink-gateway.png" width="100%" alt="PrimoLink | Gateway | Evolution GO | WuzAPI | Chatwoot" style="max-width: 100%;"></a></p>
