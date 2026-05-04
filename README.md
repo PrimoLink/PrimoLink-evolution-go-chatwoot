@@ -8,7 +8,7 @@ O **PrimoLink Gateway** é um middleware de alta performance e baixa latência, 
 Diferente de soluções legadas, o PrimoLink v2.1.0 foi reconstruído para ser **stateless** e **escalável**, utilizando uma stack moderna com PostgreSQL para persistência e Redis para cache de mapeamento ultrarrápido.
 
 ---
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/PrimoLink/PrimoLink-evolution-go-chatwoot/blob/main/slot-primolink-gateway.png"><img src="/PrimoLink/PrimoLink-evolution-go-chatwoot/blob/main/slot-primolink-gateway.png" width="100%" alt="PrimoLink | Gateway | Evolution GO | WuzAPI | Chatwoot" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/blob/main/slot-primolink-gateway.png"><img src="/blob/main/slot-primolink-gateway.png" width="100%" alt="PrimoLink | Gateway | Evolution GO | WuzAPI | Chatwoot" style="max-width: 100%;"></a></p>
 ---
 
 ## 🎯 Por que escolher o PrimoLink?
