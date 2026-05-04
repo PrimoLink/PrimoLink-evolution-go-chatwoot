@@ -12,7 +12,7 @@ Diferente de soluções legadas, o PrimoLink foi reconstruído para ser **statel
 ---
 
 ## 🎯 Por que escolher o PrimoLink?
-- **Agnotismo de API**: Conecte-se nativamente à **Evolution GO** ou à **WuzAPI** (ou ambas simultaneamente) com paridade total de recursos.
+- **Compatível com várias APIs**: Conecte-se nativamente à **Evolution GO** ou à **WuzAPI** (ou ambas simultaneamente) com paridade total de recursos.
 - **Modo Espelho (Mirror Mode)**: O que o agente envia pelo celular físico aparece instantaneamente no Chatwoot como Nota Privada com mídia real.
 - **Inteligência de Threading (Media Fallback)**: Sistema exclusivo que recupera mídias citadas direto do Chatwoot, garantindo que reações e respostas nunca percam o contexto visual, mesmo se o link original do WhatsApp expirar.
 - **Arquitetura Enterprise**: 
