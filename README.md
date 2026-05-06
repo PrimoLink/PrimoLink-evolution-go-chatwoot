@@ -1,6 +1,6 @@
-# PrimoLink - Integra | evolution-go | wuzapi | chatwoot
+# PrimoLink - | evolution-go | wuzapi | chatwoot
 
-# PrimoLink Gateway 🚀
+# PrimoLink Gateway 🚀 PT - EN - ES
 **The ultimate enterprise bridge between WhatsApp (Evolution GO / WuzAPI) and Chatwoot. Just link and use!**
 
 O **PrimoLink Gateway** é um middleware de alta performance e baixa latência, desenhado para orquestrar a comunicação bidirecional em tempo real entre APIs de WhatsApp (**Evolution GO** e **WuzAPI**) e o CRM Omnichannel **Chatwoot**.
